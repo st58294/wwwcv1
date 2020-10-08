@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a0c8747-e3a0-4262-9eda-82eb11d0b9d8" name="Default Changelist" comment="" />
+    <list default="true" id="3a0c8747-e3a0-4262-9eda-82eb11d0b9d8" name="Default Changelist" comment="cv1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +47,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602095125677</updated>
-      <workItem from="1602095126896" duration="942000" />
+      <workItem from="1602095126896" duration="3273000" />
     </task>
+    <task id="LOCAL-00001" summary="cv1">
+      <created>1602096108592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602096108592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cv1" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="349" key="#Notifications" timestamp="1602095642093">
